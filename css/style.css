@@ -73,7 +73,7 @@ img {
 
 .header {
   grid-area: header;
-  background: linear-gradient(135deg,#4b1d37,#6e1538);
+  background: linear-gradient(135deg, #4b1d37, #6e1538);
   padding: 30px;
   display: grid;
   grid-template-columns: 1fr auto;
@@ -276,7 +276,7 @@ p {
 .caracteristicas>div {
   width: 80px;
   text-align: center;
-  background: linear-gradient(135deg,#4b1d37,#6e1538);
+  background: linear-gradient(135deg, #4b1d37, #6e1538);
   border-radius: 5px;
   box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
 }
@@ -316,7 +316,7 @@ p {
   padding: 30px;
   border-radius: 5px;
   box-shadow: 5px 5px 15px 0px rgba(44, 44, 44, 0.15);
-  background: linear-gradient(135deg,#4b1d37,#6e1538);
+  background: linear-gradient(135deg, #4b1d37, #6e1538);
 
 }
 
@@ -337,7 +337,7 @@ p {
 }
 
 .atributos li+li {
-  border-top: 2px solid #b07dfb;
+  border-top: 2px solid #fafbfc;
 }
 
 /* ANUNCIOS */
@@ -355,7 +355,7 @@ p {
 /* FOOTER */
 .footer {
   grid-area: footer;
-  background: linear-gradient(135deg,#4b1d37,#6e1538);
+  background: linear-gradient(135deg, #4b1d37, #6e1538);
 }
 
 .footer p {
